@@ -6,7 +6,6 @@
 This project is a simple interactive to-do list web application built using HTML, CSS, and JavaScript. It allows users to create, manage, and track their tasks effectively.
 
 ## Table of Contents
-
 -[Introduction](#Introduction)
 - [Preview](#Preview)
 - [Features](#Features)
@@ -16,6 +15,7 @@ This project is a simple interactive to-do list web application built using HTML
 - [Contributing](#Contributing)
 - [License](#License)
 ## Introduction
+In the hustle and bustle of daily life, it's easy to overlook important tasks and deadlines. The To-Do List project aims to streamline your task management process by providing a user-friendly interface to jot down tasks, mark them as completed, and remove them as you progress. Whether you're a professional, a student, or anyone seeking better task organization, this project can be your digital companion.
 
 ## Preview
 ![Preview of the to do list website](https://github.com/nakkina-sekhar/OIBSIP/blob/main/oibsip_level-2/oibsip_taskno-3/img/website.JPG)
