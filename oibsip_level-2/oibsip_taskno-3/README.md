@@ -6,7 +6,7 @@
 This project is a simple interactive to-do list web application built using HTML, CSS, and JavaScript. It allows users to create, manage, and track their tasks effectively.
 
 ## Table of Contents
--[Introduction](#Introduction)
+- [Introduction](#Introduction)
 - [Preview](#Preview)
 - [Features](#Features)
 - [Technologies-Used](#Technologies-Used)
