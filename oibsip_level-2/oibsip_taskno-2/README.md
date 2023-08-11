@@ -17,7 +17,7 @@ Welcome to the "Tribute Page for Dr. APJ Abdul Kalam" repository! This project i
 
 The Tribute Page for Dr. APJ Abdul Kalam serves as a digital homage to this visionary leader, highlighting his significant accomplishments in science, education, and public service. Through a visually appealing and informative design, this page aims to inspire visitors with the extraordinary life journey of Dr. Kalam.
 ## Preview
-![Tribute Page for Dr. APJ Abdul Kalam Preview]()
+![Tribute Page for Dr. APJ Abdul Kalam Preview](https://github.com/nakkina-sekhar/OIBSIP/blob/main/oibsip_level-2/oibsip_taskno-2/img/website1.JPG)
 ![Tribute Page for Dr. APJ Abdul Kalam Preview]()
 ## Features
 
