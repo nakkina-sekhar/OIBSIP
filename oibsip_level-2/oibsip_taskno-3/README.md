@@ -1,8 +1,6 @@
  
 # To-Do List Project
 
-![To-Do List Demo](demo.gif)
-
 This project is a simple interactive to-do list web application built using HTML, CSS, and JavaScript. It allows users to create, manage, and track their tasks effectively.
 
 ## Table of Contents
@@ -42,15 +40,14 @@ Check out the live demo of the To-Do List application [here](https://to-do-list-
 
 1. Clone the repository:
 
-   ```
+    
    git clone https://github.com/your-username/todo-list.git
-   ```
+ 
 
 2. Navigate to the project directory:
-
-   ```
+ 
    cd todo-list
-   ```
+ 
 
 3. Open the `index.html` file in your web browser.
 
@@ -63,22 +60,21 @@ Contributions are welcome! If you find any issues or want to enhance the applica
 1. Fork the repository.
 
 2. Create a new branch:
-
-   ```
+ 
    git checkout -b feature/your-feature-name
-   ```
+  
 
 3. Make your changes and commit them:
 
-   ```
+    
    git commit -m "Add your commit message here"
-   ```
+   
 
 4. Push to the branch:
 
-   ```
+   
    git push origin feature/your-feature-name
-   ```
+   
 
 5. Create a pull request explaining your changes.
 
