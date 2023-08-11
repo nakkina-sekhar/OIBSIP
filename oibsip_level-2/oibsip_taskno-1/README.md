@@ -20,7 +20,7 @@ The Calculator App is a web-based application created using HTML, CSS, and JavaS
 
 The Calculator App is a simple web-based application that allows users to perform basic arithmetic calculations. It's built using HTML, CSS, and JavaScript to provide an intuitive and user-friendly interface for performing calculations on the go.
 ## Preview
-![Calculator Preview]()
+![Calculator Preview](https://github.com/nakkina-sekhar/OIBSIP/blob/main/oibsip_level-2/oibsip_taskno-1/demo%20img/website.JPG)
 
 ## Demo
 Check out the live demo of the Calculator App Website [here](https://calculator-website-1.netlify.app/)
