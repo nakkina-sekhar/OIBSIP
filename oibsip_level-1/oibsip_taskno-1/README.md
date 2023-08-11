@@ -8,6 +8,7 @@ Welcome to the "Way to Happiness" travel website landing page! This is a fiction
 - [Introduction](#Introduction)
 - [Demo](#Demo)
 - [Features](#Features)
+- [Technologies-Used](#Technologies-Used)
 - [Getting-Started](#Getting-Started)
 - [Usage](#Usage)
 - [Contributing](#ontributing)
@@ -29,6 +30,9 @@ Live demo [click here](https://way-to-happiness.netlify.app/)
 - **Call to Action**: Prominent call-to-action buttons to encourage users to explore travel packages and contact the travel agency.
 
 - **Responsive Design**: The landing page is responsive and adjusts to different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
+## Technologies-Used
+- HTML: Used for creating the structure of the web page.
+- CSS: Used for styling and layout design.
 
 ## Getting Started
 
