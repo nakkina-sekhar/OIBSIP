@@ -17,7 +17,7 @@ temperature-converter-Website-using-html-css-JavaScript
 The Temperature Converter is a simple web application that allows users to convert temperatures between Celsius and Fahrenheit. This application is built using HTML, CSS, and JavaScript and provides an intuitive interface for quick and easy temperature conversions.
 ## Preview
 
-![Temperature Converter Screenshot](https://github.com/nakkina-sekhar/OIBSIP/tree/main/oibsip_level-1/oibsip_taskno-3/img)
+![Temperature Converter Screenshot](https://github.com/nakkina-sekhar/OIBSIP/blob/main/oibsip_level-1/oibsip_taskno-3/img/website.JPG)
 ## Demo
 
 Check out the live demo of the  Temperature Converter Website [here](https://temperature-converter-website-1.netlify.app/)
