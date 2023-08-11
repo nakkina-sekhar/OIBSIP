@@ -62,4 +62,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to adapt and customize this `README.md` template to match your actual project's design, content, and layout.
+
