@@ -6,7 +6,6 @@ Welcome to the "Way to Happiness" travel website landing page! This is a fiction
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Preview](#Preview)
 - [Demo](#Demo)
 - [Features](#Features)
 - [Getting-Started](#Getting-Started)
@@ -18,8 +17,7 @@ Welcome to the "Way to Happiness" travel website landing page! This is a fiction
 
 The "Way to Happiness" travel website landing page is designed to attract visitors interested in exploring various destinations around the world. The page is built using HTML and CSS to provide an engaging and visually appealing experience to users.
 
-## Preview
-![Screenshot click here]()
+ 
 ## Demo
 Live demo [click here](https://way-to-happiness.netlify.app/)
 ## Features
