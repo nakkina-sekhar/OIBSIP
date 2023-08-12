@@ -21,7 +21,7 @@ Welcome to my portfolio project! This is a personal website showcasing my projec
 As a web developer, I wanted to create a platform where I can showcase my skills and projects to potential employers, clients, and fellow developers. My portfolio website is designed to provide a clear overview of who I am, what I do, and the projects I've worked on. It's not just a website; it's a representation of my journey in the world of web development.
 
 ## Demo
-Check out the live demo of my portfolio website [here](https://portfolio-website1.netlify.app/).
+Check out the live demo of my portfolio website [here](https://portfolio-websi1.netlify.app/).
 ## Features
 
 - Home section with a brief introduction and profile picture
